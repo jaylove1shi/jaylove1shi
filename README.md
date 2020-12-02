@@ -92,21 +92,24 @@ I write about software development on [my blog!](https://www.jaylove1shi.com), W
 Want to get connected? Follow me on the social channels below.
 
 <p>
-	<a href="https://twitter.com/jaylove1shi">
-		<img align="left" alt="Jay's Twitter" width="20px" src="https://raw.githubusercontent.com/jaylove1shi/jaylove1shi/main/twitter.svg" />
-	</a>
-	<a href="https://www.linkedin.com/in/jaylove1shi">
-		<img align="left" alt="Jay's Linkdein" width="20px" src="https://raw.githubusercontent.com/jaylove1shi/jaylove1shi/main/linkedin.svg" /> 
-	</a>
-	<a href="https://github.com/jaylove1shi">
-		<img align="left" alt="Jay's Github" width="20px" src="https://raw.githubusercontent.com/jaylove1shi/jaylove1shi/main/github.svg" />
-	</a>
-	<a href="https://www.facebook.com/jaylove1shi">
-		<img align="left" alt="Jay's Facebook" width="20px" src="https://raw.githubusercontent.com/jaylove1shi/jaylove1shi/main/fb.svg" />
-	</a>
-	<a href="https://www.youtube.com/channel/jaylove1shi">
-		<img align="left" alt="Jay's Youtube" width="20px" src="https://raw.githubusercontent.com/jaylove1shi/jaylove1shi/main/youtube.svg" />
-	</a>
+<a href="https://www.facebook.com/jaylove1shi">
+	<img align="left" alt="Jay's Facebook" width="20px" src="https://raw.githubusercontent.com/jaylove1shi/jaylove1shi/main/fb.svg" />
+</a>
+<a href="https://www.instagram.com/jaylove1shi/">
+	<img align="left" alt="Jay's Instagram" width="20px" src="https://raw.githubusercontent.com/jaylove1shi/jaylove1shi/main/insta.svg" />
+</a>
+<a href="https://twitter.com/jaylove1shi">
+	<img align="left" alt="Jay's Twitter" width="20px" src="https://raw.githubusercontent.com/jaylove1shi/jaylove1shi/main/twitter.svg" />
+</a>
+<a href="https://www.youtube.com/channel/jaylove1shi">
+	<img align="left" alt="Jay's Youtube" width="20px" src="https://raw.githubusercontent.com/jaylove1shi/jaylove1shi/main/youtube.svg" />
+</a>
+<a href="https://www.linkedin.com/in/jaylove1shi">
+	<img align="left" alt="Jay's Linkdein" width="20px" src="https://raw.githubusercontent.com/jaylove1shi/jaylove1shi/main/linkedin.svg" /> 
+</a>
+<a href="https://github.com/jaylove1shi">
+	<img align="left" alt="Jay's Github" width="20px" src="https://raw.githubusercontent.com/jaylove1shi/jaylove1shi/main/github.svg" />
+</a>
 </p>
 
 <br>
