@@ -101,7 +101,7 @@ Want to get connected? Follow me on the social channels below.
 <a href="https://twitter.com/jaylove1shi">
 	<img align="left" alt="Jay's Twitter" width="20px" src="https://raw.githubusercontent.com/jaylove1shi/jaylove1shi/main/twitter.svg" />
 </a>
-<a href="https://www.youtube.com/channel/jaylove1shi">
+<a href="https://www.youtube.com/channel/UCQNH2Az50G6Av2_eUyroZuQ">
 	<img align="left" alt="Jay's Youtube" width="20px" src="https://raw.githubusercontent.com/jaylove1shi/jaylove1shi/main/youtube.svg" />
 </a>
 <a href="https://www.linkedin.com/in/jaylove1shi">
