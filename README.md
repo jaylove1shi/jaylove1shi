@@ -1,7 +1,3 @@
-<p align="center">
-	<img width="100px" src="https://raw.githubusercontent.com/jaylove1shi/jaylove1shi/main/profile.jpeg" align="center" alt="GitHub Jay Lowanshi Profile" />
-</p>
-
 <h1 align="center">
 	Hi 
 	<img src="https://raw.githubusercontent.com/jaylove1shi/jaylove1shi/main/hi.gif" width="30px">
@@ -77,8 +73,8 @@ I also worked on **APIs, Web hooks, E commerce applications** and more...
 
 ### My Github Stats: 🖤
 <p align="center"> 
-	<img  height="200" src="https://github-readme-stats.vercel.app/api?username=jaylove1shi&show_icons=true&hide_border=true">	
-	<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
+	<img  height="150" src="https://github-readme-stats.vercel.app/api?username=jaylove1shi&show_icons=true&hide_border=true">	
+	<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
 </p>
 
 >NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats.
