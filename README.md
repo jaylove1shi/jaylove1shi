@@ -18,6 +18,7 @@
 
 <img align="right" width="300" height="300" alt="Profile" src="https://raw.githubusercontent.com/jaylove1shi/jaylove1shi/main/profile.jpg" />
 
+
 - 💻 I'm a Full Stack Developer
 - 🔭 I build things that makes a difference
 - ⚡ Excited to create open-source projects
@@ -28,10 +29,28 @@
 - ⚡ Fun fact: Love to lesson music while working.
 - 👯 I’m looking to collaborate on **open source projects**
 - 🤔 I’m looking for help with  **python**
-- 📫 How to reach me: you can contact me via [jaylove1shi@gmail.com!](mailto:jaylove1shi@gmail.com)
 - 💜 I work with tech entrepreneurs around the world building remarkable products
 
-
+<div class="text-right">
+<a href="https://www.facebook.com/jaylove1shi">
+	<img align="right" alt="Jay's Facebook" width="20px" src="https://raw.githubusercontent.com/jaylove1shi/jaylove1shi/main/fb.svg" />
+</a>
+<a href="https://www.instagram.com/jaylove1shi/">
+	<img align="right" alt="Jay's Instagram" width="20px" src="https://raw.githubusercontent.com/jaylove1shi/jaylove1shi/main/insta.svg" />
+</a>
+<a href="https://twitter.com/jaylove1shi">
+	<img align="right" alt="Jay's Twitter" width="20px" src="https://raw.githubusercontent.com/jaylove1shi/jaylove1shi/main/twitter.svg" />
+</a>
+<a href="https://www.youtube.com/channel/UCQNH2Az50G6Av2_eUyroZuQ">
+	<img align="right" alt="Jay's Youtube" width="20px" src="https://raw.githubusercontent.com/jaylove1shi/jaylove1shi/main/youtube.svg" />
+</a>
+<a href="https://www.linkedin.com/in/jaylove1shi">
+	<img align="right" alt="Jay's Linkdein" width="20px" src="https://raw.githubusercontent.com/jaylove1shi/jaylove1shi/main/linkedin.svg" /> 
+</a>
+<a href="https://github.com/jaylove1shi">
+	<img align="right" alt="Jay's Github" width="20px" src="https://raw.githubusercontent.com/jaylove1shi/jaylove1shi/main/github.svg" />
+</a>
+</div>
 
 <br>
 <br>
