@@ -31,34 +31,33 @@
 - 💜 I work with tech entrepreneurs around the world building remarkable products
 
 <div class="text-right">
+<div align="left">
+I am a full stack web developer and having years of experience in web development.
+</div>
 <a href="https://www.facebook.com/jaylove1shi">
-<img align="right" alt="Jay's Facebook" width="20px" src="https://raw.githubusercontent.com/jaylove1shi/jaylove1shi/main/fb.svg" />
+<img align="right" alt="Jay's Facebook" width="25px" src="https://raw.githubusercontent.com/jaylove1shi/jaylove1shi/main/fb.svg" />
 </a>
 <a href="https://www.instagram.com/jaylove1shi/">
-<img align="right" alt="Jay's Instagram" width="20px" src="https://raw.githubusercontent.com/jaylove1shi/jaylove1shi/main/insta.svg" />
+<img align="right" alt="Jay's Instagram" width="25px" src="https://raw.githubusercontent.com/jaylove1shi/jaylove1shi/main/insta.svg" />
 </a>
 <a href="https://twitter.com/jaylove1shi">
-<img align="right" alt="Jay's Twitter" width="20px" src="https://raw.githubusercontent.com/jaylove1shi/jaylove1shi/main/twitter.svg" />
+<img align="right" alt="Jay's Twitter" width="25px" src="https://raw.githubusercontent.com/jaylove1shi/jaylove1shi/main/twitter.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCQNH2Az50G6Av2_eUyroZuQ">
-<img align="right" alt="Jay's Youtube" width="20px" src="https://raw.githubusercontent.com/jaylove1shi/jaylove1shi/main/youtube.svg" />
+<img align="right" alt="Jay's Youtube" width="25px" src="https://raw.githubusercontent.com/jaylove1shi/jaylove1shi/main/youtube.svg" />
 </a>
 <a href="https://www.linkedin.com/in/jaylove1shi">
-<img align="right" alt="Jay's Linkdein" width="20px" src="https://raw.githubusercontent.com/jaylove1shi/jaylove1shi/main/linkedin.svg" /> 
+<img align="right" alt="Jay's Linkdein" width="25px" src="https://raw.githubusercontent.com/jaylove1shi/jaylove1shi/main/linkedin.svg" /> 
 </a>
 <a href="https://github.com/jaylove1shi">
-<img align="right" alt="Jay's Github" width="20px" src="https://raw.githubusercontent.com/jaylove1shi/jaylove1shi/main/github.svg" />
+<img align="right" alt="Jay's Github" width="25px" src="https://raw.githubusercontent.com/jaylove1shi/jaylove1shi/main/github.svg" />
 </a>
 <a href="mailto:jaylove1shi@gmail.com">
-<img align="right" alt="Jay's Mail" width="20px" src="https://raw.githubusercontent.com/jaylove1shi/jaylove1shi/main/email.png" />
+<img align="right" alt="Jay's Mail" width="25px" src="https://raw.githubusercontent.com/jaylove1shi/jaylove1shi/main/email.png" />
 </a>
 </div>
 
 <br>
-
-I am a full stack web developer and having **years**  of experience in web development.
-
-
 
 I'm a software engineer specialised in frontend and backend development for complex scalable web apps and having **years** of experience experience building software for clients all over the world. Below is a quick overview of my main technical skill sets and technologies I use.
 
@@ -115,25 +114,25 @@ Want to get connected? Follow me on the social channels below.
 
 <p>
 <a href="https://www.facebook.com/jaylove1shi">
-	<img align="left" alt="Jay's Facebook" width="20px" src="https://raw.githubusercontent.com/jaylove1shi/jaylove1shi/main/fb.svg" />
+	<img align="left" alt="Jay's Facebook" width="25px" src="https://raw.githubusercontent.com/jaylove1shi/jaylove1shi/main/fb.svg" />
 </a>
 <a href="https://www.instagram.com/jaylove1shi/">
-	<img align="left" alt="Jay's Instagram" width="20px" src="https://raw.githubusercontent.com/jaylove1shi/jaylove1shi/main/insta.svg" />
+	<img align="left" alt="Jay's Instagram" width="25px" src="https://raw.githubusercontent.com/jaylove1shi/jaylove1shi/main/insta.svg" />
 </a>
 <a href="https://twitter.com/jaylove1shi">
-	<img align="left" alt="Jay's Twitter" width="20px" src="https://raw.githubusercontent.com/jaylove1shi/jaylove1shi/main/twitter.svg" />
+	<img align="left" alt="Jay's Twitter" width="25px" src="https://raw.githubusercontent.com/jaylove1shi/jaylove1shi/main/twitter.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCQNH2Az50G6Av2_eUyroZuQ">
-	<img align="left" alt="Jay's Youtube" width="20px" src="https://raw.githubusercontent.com/jaylove1shi/jaylove1shi/main/youtube.svg" />
+	<img align="left" alt="Jay's Youtube" width="25px" src="https://raw.githubusercontent.com/jaylove1shi/jaylove1shi/main/youtube.svg" />
 </a>
 <a href="https://www.linkedin.com/in/jaylove1shi">
-	<img align="left" alt="Jay's Linkdein" width="20px" src="https://raw.githubusercontent.com/jaylove1shi/jaylove1shi/main/linkedin.svg" /> 
+	<img align="left" alt="Jay's Linkdein" width="25px" src="https://raw.githubusercontent.com/jaylove1shi/jaylove1shi/main/linkedin.svg" /> 
 </a>
 <a href="https://github.com/jaylove1shi">
-	<img align="left" alt="Jay's Github" width="20px" src="https://raw.githubusercontent.com/jaylove1shi/jaylove1shi/main/github.svg" />
+	<img align="left" alt="Jay's Github" width="25px" src="https://raw.githubusercontent.com/jaylove1shi/jaylove1shi/main/github.svg" />
 </a>
 <a href="mailto:jaylove1shi@gmail.com">
-<img align="left" alt="Jay's Mail" width="20px" src="https://raw.githubusercontent.com/jaylove1shi/jaylove1shi/main/email.png" />
+<img align="left" alt="Jay's Mail" width="25px" src="https://raw.githubusercontent.com/jaylove1shi/jaylove1shi/main/email.png" />
 </a>
 </p>
 
