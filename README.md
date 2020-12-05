@@ -16,7 +16,7 @@
 
 <br>
 
-<img align="right" width="400" height="300" alt="GIF" src="https://raw.githubusercontent.com/jaylove1shi/jaylove1shi/main/working.gif" />
+<img align="right" width="300" height="300" alt="Profile" src="https://raw.githubusercontent.com/jaylove1shi/jaylove1shi/main/profile.jpg" />
 
 - 💻 I'm a Full Stack Developer
 - 🔭 I build things that makes a difference
@@ -30,6 +30,8 @@
 - 🤔 I’m looking for help with  **python**
 - 📫 How to reach me: you can contact me via [jaylove1shi@gmail.com!](mailto:jaylove1shi@gmail.com)
 - 💜 I work with tech entrepreneurs around the world building remarkable products
+
+
 
 <br>
 <br>
