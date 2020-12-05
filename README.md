@@ -40,8 +40,6 @@ I am a full stack web developer and having **years**  of experience in web devel
 
 I'm a software engineer specialised in frontend and backend development for complex scalable web apps and having **years** of experience experience building software for clients all over the world. Below is a quick overview of my main technical skill sets and technologies I use.
 
-<img align="right" width="400" height="350" alt="GIF" src="https://raw.githubusercontent.com/jaylove1shi/jaylove1shi/main/banner.gif" />
-
 I have worked on many of popular frameworks and libraries.
 
 **Client side frameworks & libraries:**
