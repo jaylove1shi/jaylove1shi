@@ -30,7 +30,8 @@
 - 🤔 I’m looking for help with  **python**
 - 💜 I work with tech entrepreneurs around the world building remarkable products
 
-<div class="text-right">
+
+<p>
 <div align="left">
 I am a full stack web developer and having years of experience in web development.
 </div>
@@ -55,9 +56,7 @@ I am a full stack web developer and having years of experience in web developmen
 <a href="mailto:jaylove1shi@gmail.com">
 <img align="right" alt="Jay's Mail" width="25px" src="https://raw.githubusercontent.com/jaylove1shi/jaylove1shi/main/email.png" />
 </a>
-</div>
-
-<br>
+</p>
 
 I'm a software engineer specialised in frontend and backend development for complex scalable web apps and having **years** of experience experience building software for clients all over the world. Below is a quick overview of my main technical skill sets and technologies I use.
 
