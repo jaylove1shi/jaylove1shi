@@ -18,7 +18,6 @@
 
 <img align="right" width="300" height="300" alt="Profile" src="https://raw.githubusercontent.com/jaylove1shi/jaylove1shi/main/profile.jpg" />
 
-
 - 💻 I'm a Full Stack Developer
 - 🔭 I build things that makes a difference
 - ⚡ Excited to create open-source projects
@@ -30,6 +29,10 @@
 - 👯 I’m looking to collaborate on **open source projects**
 - 🤔 I’m looking for help with  **python**
 - 💜 I work with tech entrepreneurs around the world building remarkable products
+
+<br>
+
+I am a full stack web developer and having **years**  of experience in web development.
 
 <div class="text-right">
 <a href="https://www.facebook.com/jaylove1shi">
@@ -51,11 +54,6 @@
 	<img align="right" alt="Jay's Github" width="20px" src="https://raw.githubusercontent.com/jaylove1shi/jaylove1shi/main/github.svg" />
 </a>
 </div>
-
-<br>
-<br>
-
-I am a full stack web developer and having **years**  of experience in web development.
 
 I'm a software engineer specialised in frontend and backend development for complex scalable web apps and having **years** of experience experience building software for clients all over the world. Below is a quick overview of my main technical skill sets and technologies I use.
 
