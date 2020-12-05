@@ -34,7 +34,7 @@
 <p>
 <div align="left">
 I am a full stack web developer and having years of experience in web development.
-</div>
+
 <a href="https://www.facebook.com/jaylove1shi">
 <img align="right" alt="Jay's Facebook" width="25px" src="https://raw.githubusercontent.com/jaylove1shi/jaylove1shi/main/fb.svg" />
 </a>
@@ -56,6 +56,7 @@ I am a full stack web developer and having years of experience in web developmen
 <a href="mailto:jaylove1shi@gmail.com">
 <img align="right" alt="Jay's Mail" width="25px" src="https://raw.githubusercontent.com/jaylove1shi/jaylove1shi/main/email.png" />
 </a>
+</div>
 </p>
 
 I'm a software engineer specialised in frontend and backend development for complex scalable web apps and having **years** of experience experience building software for clients all over the world. Below is a quick overview of my main technical skill sets and technologies I use.
