@@ -16,7 +16,7 @@
 
 <br>
 
-<img align="right" width="300" height="300" alt="Profile" src="https://raw.githubusercontent.com/jaylove1shi/jaylove1shi/main/profile.jpg" />
+<img align="right" width="300" height="300" alt="Profile" src="https://raw.githubusercontent.com/jaylove1shi/jaylove1shi/main/profile.png" />
 
 - 💻 I'm a Full Stack Developer
 - 🔭 I build things that makes a difference
